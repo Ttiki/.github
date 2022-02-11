@@ -1,11 +1,11 @@
 ### 🗒️General information
-#### This is for:
+#### This is about:
 
-* [x] bug correction
+* [x] bug
 * [ ] new feature
-* [ ] documentation enhancement
+* [ ] documentation
 * [ ] code optimization
-* [ ] security enhancement
+* [ ] security
 * [ ] Other : _please tell more_
 
 
