@@ -49,13 +49,13 @@ body:
     attributes:
       label: Version
       description: What version of our software are you running?
-      options: <!--TODO: change this before uploading the repo!-->
+      options: #TODO: change this before uploading the repo!
         - 0.0.1
         - 0.1.0
         - 1.0.0
     validations:
       required: true
-  - type: dropdown <!--TODO: Change this to reflect the type we need (os, browser, etc.)
+  - type: dropdown #TODO: Change this to reflect the type we need (os, browser, etc.)
     id: browsers
     attributes:
       label: What browsers are you seeing the problem on?
