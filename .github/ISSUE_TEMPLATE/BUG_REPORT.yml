@@ -24,7 +24,7 @@ body:
       description: What action(s) were you doing when the bug occured?
       placeholder: Tell us what you did before the bug occured!
       value: "I was doing..."
-      validations:
+    validations:
         required: true
   - type: textarea
     id: waiting-result
