@@ -1,5 +1,7 @@
 todo:
-  keyword: "@todo",
-  keyword: "@TODO",
-  keyword: "TODO",
-  keyword: "todo",
+  keyword: [
+  "@todo", 
+  "@TODO",
+  "todo",
+  "TODO"]
+  autoAssign: true,
