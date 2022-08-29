@@ -2,7 +2,7 @@
 name: Documentation issue
 about: Describe any documentation issue or enhancement here.
 title: "[DOC] - "
-labels: ''
+labels: documentation
 assignees: ''
 
 ---

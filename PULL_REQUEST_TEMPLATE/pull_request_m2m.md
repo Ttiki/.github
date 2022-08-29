@@ -1,17 +1,31 @@
-### 🗒️General information
-#### This is a:
+---
+name: "⚠Merge to main"
+about: "This template is used to merge the head to the main."
+title: "[⚠Merge to main] - "
+labels: 
+assignees: ''
 
-* [x] bug correction
+---
+
+# MERGE PULL REQUEST
+
+>This PR is for merging a minor branch to the head.
+
+## 🗒️General information
+### This pull request adds:
+
+* [ ] bug correction
 * [ ] new feature
 * [ ] documentation enhancement
 * [ ] code optimization
 * [ ] security enhancement
 * [ ] Other : _please tell more_
 
-### PR description
+
+## PR description
 
 <!--⚠️⚠️DELETE EVERYTHING DOWN BELOW BEFORE POSTING!!!⚠️⚠️-->
->#### ⚠️Note:
+>### ⚠️Note:
 >_First, this is not the place to report a bug or discuss about a feature idea, documentation enhancement or anything else appart from reporting a new contribution to the project. 
 For reporting issues please use this issue tracker.
 The best way to propose a feature is to open an issue first and discuss your ideas there before implementing them._

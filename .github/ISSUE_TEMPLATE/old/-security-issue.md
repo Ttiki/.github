@@ -1,8 +1,8 @@
 ---
 name: "⚠SECURITY ISSUE"
-about: Describe this issue template's purpose here.
+about: "Template used for security issues."
 title: "[⚠SECURITY ISSUE⚠] -"
-labels: ''
+labels: SECURITY WARNING
 assignees: ''
 
 ---

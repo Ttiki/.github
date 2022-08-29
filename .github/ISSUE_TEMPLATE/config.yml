@@ -1,5 +1,8 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
   - name: Discussion
     url: https://github.com/Ttiki/Ttiki/discussions
     about: Join the general discussion! We talk about everything and anything.
+  - name: Mail
+    url: mailto:clement64.combier@gmail.com
+    about: Send me a mail
